@@ -1,0 +1,7 @@
+<?php
+return [
+    'paths' => [
+        'host' => '',
+        'upload_path_virtual' => '',
+    ]
+];
