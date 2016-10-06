@@ -2,9 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="db2327da-b6d4-4100-948c-57760ab01dfc" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/Action/InstagramAction.php.OLD" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="www.iws" />
@@ -210,12 +207,20 @@
       <updated>1475698474174</updated>
       <workItem from="1475698475456" duration="1185000" />
       <workItem from="1475754917221" duration="20234000" />
-      <workItem from="1475787518891" duration="91000" />
+      <workItem from="1475787518891" duration="116000" />
     </task>
+    <task id="LOCAL-00001" summary="first commit">
+      <created>1475787623261</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1475787623261</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21510000" />
+    <option name="totallyTimeSpent" value="21535000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -278,6 +283,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
