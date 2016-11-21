@@ -53,7 +53,7 @@ final class InstagramAction
                 $file_path = $path_uploads . $file;
                 if(is_file($file_path))
                 {
-                    $current_date = (new \DateTime('-60 days'));
+                    $current_date = (new \DateTime('-10 days'));
                     $file_date = (new \DateTime())->setTimestamp(filemtime($file_path));
 
                     if($file_date < $current_date)
